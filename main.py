@@ -67,3 +67,6 @@ while v < i:
 print("Multi-Transactions Sucessfully Completed")
 print(f"Total amount sent {s2} BNB/ETH ")
 print(f"WALLET BNB/ETH VALUE:{balance()} ")
+time.sleep(3)
+print("Application will close in 10 seconds...")
+time.sleep(10)
