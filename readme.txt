@@ -6,4 +6,7 @@
 4. main.py is the source-code file, To make it an executable (.exe) use pyinstaller.
 5. If facing any issue, please contact me on my twitter or reddit DMs ( My accounts are mentioned in github bio).
 
+
+** IM NOT RESPONSIBLE FOR ANY LOSSES THAT MAY HAPPEN DURING REAL TRANSACTIONS, TEST ON TESTNET FIRST **
+
 **BY SHAHEN B**
